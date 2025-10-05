@@ -1,0 +1,6 @@
+@AprendendoAPIweb_HostAddress = http://localhost:5027
+
+GET {{AprendendoAPIweb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
