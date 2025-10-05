@@ -1,0 +1,21 @@
+﻿##############################################
+# Ignorar arquivos gerados pelo .NET / C#
+##############################################
+
+# Diretórios de compilação
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de usuário do Visual Studio
+*.suo
+*.user
+*.pdb
+*.pidb
+
+# Pacotes NuGet
+*.nupkg
+
+# Diretórios de restore do NuGet
+.nuget/packages
+.vs/
+
